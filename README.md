@@ -32,3 +32,6 @@ To replicate and run the project, follow these steps:
 4. Refer to the documentation in `report/` for a comprehensive understanding of the project.
 
 **Note:** Ensure that all dependencies, including scikit-learn-2.0 and Tweepy, are installed before running the scripts.
+
+## Cite this work as
+`Bhargavi, K. & Mashankar, Pratish & Sreevarsh, Pamidimukkala & Bilolikar, Radhika & Ranganathan, Preethi. (2022). Machine Learning-Based Sentiment Analysis Towards Indian Ministry. 10.1007/978-981-16-9573-5_28. `
