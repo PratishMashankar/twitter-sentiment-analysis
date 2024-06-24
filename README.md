@@ -3,6 +3,9 @@
 ## Abstract
 This project presents the performance of Twitter Sentiment Analysis on the Agricultural Ministry of India and also determines the optimal AI model between Random Forest (RF) and k Nearest Neighbors (kNN) Algorithms. 'Twitter and Reddit Sentimental Analysis' dataset from Kaggle is used to train and test the RF and kNN AI models. Term Frequency-Inverse Document Frequency (TF-IDF) Vectorizer is used to extract features from the obtained dataset. The optimal AI model is determined using the library functions of scikit-learn-2.0 which perform the training and testing of the dataset. Twitter authenticated API called Tweepy is used to create the dataset required to determine the public sentiment towards the Agriculture Ministry by us. This dataset includes 6000 tweets related to the Agriculture Ministry. The Twitter Sentiment Analysis performed determines what percentage of public opinion towards the Agriculture Ministry is positive, negative and neutral.
 
+## Link to the Document
+[Machine Learning based Sentiment Analysis toward Indian Ministry](https://rdcu.be/dxkFZ)
+
 ## File Structure
 The project repository is organized as follows:
 
